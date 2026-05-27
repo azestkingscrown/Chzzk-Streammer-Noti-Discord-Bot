@@ -1,0 +1,19 @@
+{
+  "name": "chzzk_community_notification",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Azest_Kingscrown",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.15.2",
+    "discord.js": "^14.25.1",
+    "node-schedule": "^2.1.1",
+    "sqlite3": "^6.0.1"
+  }
+}
